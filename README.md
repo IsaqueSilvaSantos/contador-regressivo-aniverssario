@@ -1,9 +1,9 @@
-## Contador-Regressivo-JS
+## contador-regressivo-aniverssario
 
 <br />
 
-Protótipo: https://isaquesantossilva.github.io/Contador-Regressivo-JS/
+Protótipo: https://isaquesantossilva.github.io/contador-regressivo-aniverssario/
 
 <br />
 
-<img src="https://github.com/IsaqueSantosSilva/Contador-Regressivo-JS/blob/main/assets/images/cover.png" alt="" width="1000" />
+<img src="https://github.com/IsaqueSilvaSantos/contador-regressivo-aniverssario/blob/main/assets/images/cover.png" alt="" width="1000" />
