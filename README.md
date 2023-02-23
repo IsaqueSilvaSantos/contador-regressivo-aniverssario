@@ -2,7 +2,7 @@
 
 <br />
 
-Protótipo: https://isaquesantossilva.github.io/contador-regressivo-aniverssario/
+Protótipo: https://isaquesilvasantos.github.io//contador-regressivo-aniverssario/
 
 <br />
 
